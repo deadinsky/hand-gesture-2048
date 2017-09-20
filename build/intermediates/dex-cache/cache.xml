@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/thomasdedinsky/AndroidStudioProjects/hand_gesture_2048/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/thomasdedinsky/AndroidStudioProjects/hand_gesture_2048/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ac94597515e0388008e0a59d06992a1b2cd21a23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thomasdedinsky/AndroidStudioProjects/hand_gesture_2048/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e92fed2b8949565bb4a6a034cc804ed4a88a6d9">
+        <dex dex="/Users/thomasdedinsky/AndroidStudioProjects/hand_gesture_2048/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d970309e0a7df025b2598966062d00ce09fb0121/classes.dex" />
+    </item>
+
+</items>
